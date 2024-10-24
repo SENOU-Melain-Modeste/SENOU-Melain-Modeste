@@ -6,7 +6,6 @@
   <meta name="description" content="Page personnelle de [SENOU Melain Modeste], CV, publications et profil.">
   <meta name="keywords" content="Nom, CV, Publications, Profil, Recherche, [Development Economics |EconometricsStatistics|Data Science|Generative IA]">
   <meta name="author" content="[SENOU Melain Modeste]">
-  <title>[SENOU Melain Modeste (PhD)] - Page personnelle</title>
 </head>
 <body>
   <header>
