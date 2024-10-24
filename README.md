@@ -14,8 +14,8 @@
   </header>
 
   <section id="cv">
-    <h2>Mon CV</h2>
-    <p>Téléchargez mon <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV here </a>.</p>
+    <h2>My CV</h2>
+    <p>Download my  <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV here </a>.</p>
   </section>
 
   <section id="profil">
@@ -35,9 +35,6 @@
       <li><a href="(https://doi.org/10.1186/s13561-023-00429-8)">Out- Of- Pocket health expenditure and household consumption patterns in Benin: Is there a crowding out effect?</a></li>
       <li><a href="(https://doi.org/10.1080/15228916.2023.2257556)">Does ICTs Usage Facilitate Access to Market? An Empirical Evidence of Market Gardeners in Benin</a></li>
 
-
-
-    </ul>
   </section>
 </body>
 </html>
