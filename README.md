@@ -10,12 +10,12 @@
 <body>
   <header>
     <h1>[SENOU Melain Modeste]</h1>
-    <p>Bienvenue sur ma page personnelle. Retrouvez mon CV, mon profil et mes publications ici.</p>
+    <p>Welcome to my web page. Find my CV, profil and publications here</p>
   </header>
 
   <section id="cv">
     <h2>Mon CV</h2>
-    <p>Téléchargez mon <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV ici</a>.</p>
+    <p>Téléchargez mon <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV here </a>.</p>
   </section>
 
   <section id="profil">
