@@ -26,7 +26,7 @@
   <section id="publications">
     <h2>Publications</h2>
     <ul>
-      <li><a href="(https://doi.org/10.1111/1467-8268.12623)">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?</a></li>
+      <li><a href="[(https://doi.org/10.1111/1467-8268.12623)]">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?</a></li>
       <li><a href="(https://doi.org/10.1080/23322039.2019.1665432)">Financial inclusion dynamics in WAEMU: Was digital technology the missing piece?</a></li>
       <li><a href="(https://doi.org/10.1002/jid.3881)">From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money</a></li>
       <li><a href="(https://doi.org/10.1016/j.sciaf.2021.e00940)">Access to finance and difference in family farm productivity in Benin: Evidence from small farms</a></li>
