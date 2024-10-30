@@ -26,16 +26,22 @@
   <section id="publications">
     <h2>Publications</h2>
     <ul>
-      <li><a href="[[(https://doi.org/10.1111/1467-8268.12623)](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8268.12623)]">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?</a></li>
-      <li><a href="(https://doi.org/10.1080/23322039.2019.1665432)">Financial inclusion dynamics in WAEMU: Was digital technology the missing piece?</a></li>
-      <li><a href="(https://doi.org/10.1002/jid.3881)">From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money</a></li>
-      <li><a href="(https://doi.org/10.1016/j.sciaf.2021.e00940)">Access to finance and difference in family farm productivity in Benin: Evidence from small farms</a></li>
-      <li><a href="(https://doi.org/10.1080/23322039.2023.2242662)">Digital financial inclusion and income inequality in WAEMU: What causality for what heterogeneity?</a></li>
-      <li><a href="(https://doi.org/10.1080/19186444.2019.1641393)">Is there a bottleneck for mobile money adoption in WAEMU?</a></li>
-      <li><a href="(https://doi.org/10.1186/s13561-023-00429-8)">Out- Of- Pocket health expenditure and household consumption patterns in Benin: Is there a crowding out effect?</a></li>
-      <li><a href="(https://doi.org/10.1080/15228916.2023.2257556)">Does ICTs Usage Facilitate Access to Market? An Empirical Evidence of Market Gardeners in Benin</a></li>
+      <li><a href="(https://doi.org/10.1111/1467-8268.12623))]">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?(African Development Review)</a></li>
+      <li><a href="(https://doi.org/10.1080/23322039.2019.1665432)">Financial inclusion dynamics in WAEMU: Was digital technology the missing piece?(Cogent Economics and Finance)</a></li>
+      <li><a href="(https://doi.org/10.1002/jid.3881)">From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money (Journal of Internation Development)</a></li>
+      <li><a href="(https://doi.org/10.1016/j.sciaf.2021.e00940)">Access to finance and difference in family farm productivity in Benin: Evidence from small farms (Scientific African)</a></li>
+      <li><a href="(https://doi.org/10.1080/23322039.2023.2242662)">Digital financial inclusion and income inequality in WAEMU: What causality for what heterogeneity? (Cognet Economics and Finance)</a></li>
+      <li><a href="(https://doi.org/10.1080/19186444.2019.1641393)">Is there a bottleneck for mobile money adoption in WAEMU? (Transnational Corporation Review)</a></li>
+      <li><a href="(https://doi.org/10.1186/s13561-023-00429-8)">Out- Of- Pocket health expenditure and household consumption patterns in Benin: Is there a crowding out effect? (Health Econopmics Review)</a></li>
+      <li><a href="(https://doi.org/10.1080/15228916.2023.2257556)">Does ICTs Usage Facilitate Access to Market? An Empirical Evidence of Market Gardeners in Benin (Journal of African Business)</a></li>
 
   </section>
+</body>
+
+
+  <footer id="contact">
+    <p>Contactez-moi à : <a href="mailto:senoumod@gmail.com">senoumod@gmail.com</a></p>
+  </footer>
 </body>
 </html>
 
