@@ -9,7 +9,7 @@
 </head>
 <body>
   <header>
-    <h1>[SENOU Melain Modeste]</h1>
+    <h1> SENOU Melain Modeste (PhD)</h1>
     <p>Welcome to my web page. Find my CV, profil and publications here</p>
   </header>
 
