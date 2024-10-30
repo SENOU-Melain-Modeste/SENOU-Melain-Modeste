@@ -37,14 +37,14 @@
 
   </section>
 </body>
- 
-  <footer id="contact">
-    <p>Contact me at : 
-    <p>              : <a href="mailto:senoumod@gmail.com "> senoumod@gmail.com  </a></p>
-    <p>              : <a href="mailto:melain.senou@undp.org "> melain.senou@undp.org  </a></p>
-    <p>              : <a href="Phone:00229 66 65 75 84 "> 00229 66 65 75 84  </a></p>
-
+   <section id="Contacts">
+    <h2>Contacts</h2> 
+    <ul>
+    <p> : <a href="mailto:senoumod@gmail.com "> senoumod@gmail.com  </a></p>
+    <p> : <a href="mailto:melain.senou@undp.org "> melain.senou@undp.org  </a></p>
+    <p> : <a href="Phone:00229 66 65 75 84 "> 00229 66 65 75 84  </a></p>
   </footer>
+ </section>
 </body>
 </html>
 
