@@ -14,7 +14,7 @@
   </header>
 
   <section id="cv">
-    <h2>My CV</h2>
+    <h2> CV</h2>
     <p>Download my  <a href="cv.pdf" download="SENOU_Melain_M_CV.pdf">CV here </a>.</p>
   </section>
 
@@ -24,7 +24,7 @@
   </section>
 
   <section id="publications">
-    <h2>Publications</h2>
+    <h2> Recent Publications</h2>
     <ul>
       <li><a href="https://doi.org/10.1111/1467-8268.12623">Access to finance and rural youth entrepreneurship in Benin: Is there a gender gap?(African Development Review)</a></li>
       <li><a href="https://doi.org/10.1080/23322039.2019.1665432">Financial inclusion dynamics in WAEMU: Was digital technology the missing piece?(Cogent Economics and Finance)</a></li>
@@ -39,7 +39,8 @@
 </body>
  
   <footer id="contact">
-    <p>Contact me at : <a href="mailto:senoumod@gmail.com "> senoumod@gmail.com  </a></p>
+    <p>Contact me at : 
+    <p>              : <a href="mailto:senoumod@gmail.com "> senoumod@gmail.com  </a></p>
     <p>              : <a href="mailto:melain.senou@undp.org "> melain.senou@undp.org  </a></p>
     <p>              : <a href="Phone:00229 66 65 75 84 "> 00229 66 65 75 84  </a></p>
 
